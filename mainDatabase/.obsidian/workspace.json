@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "f04178e1ef0da3a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e426cc13f37d767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e3da1d43dd0b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "47c5834d8931a6d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd6f266a9758eb3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfab532a3fc593b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "142a733603794cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7423ba3ebbf5534",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5773368eeb213db1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a2803f7c4c6fb35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34c47ade5a18baf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf6d287c00f178e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aa6ed7d4c62ff83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dca2162ac74045e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1918db2629e36a17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c45253c52d1d428",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "33e3da1d43dd0b9b",
+  "lastOpenFiles": [
+    "未命名 1.md",
+    "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+    "未命名.md",
+    "Welcome.md",
+    "未命名 1",
+    "create a link.md",
+    "知识笔记/开发相关/中间件/prometheus",
+    "知识笔记/开发相关/中间件/postgresql",
+    "知识笔记/开发相关/中间件/rabbitmq",
+    "知识笔记/开发相关/中间件/redis",
+    "知识笔记/开发相关/未命名",
+    "知识笔记/开发相关/java及框架/未命名",
+    "知识笔记/开发相关/java及框架/vertx与guice",
+    "知识笔记/开发相关/java及框架/spring及springboot",
+    "知识笔记/开发相关/java及框架/java基础",
+    "知识笔记/开发相关/未命名.md",
+    "知识笔记/未命名.md"
+  ]
+}
