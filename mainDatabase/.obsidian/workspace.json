@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "file": "日记/2024-04-28 星期日.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "file": "日记/2024-04-28 星期日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "file": "日记/2024-04-28 星期日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md"
+                "file": "日记/2024-04-28 星期日.md"
               }
             }
           }
@@ -150,11 +150,12 @@
   },
   "active": "031cd149133ab243",
   "lastOpenFiles": [
+    "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+    "日记/2024-04-28 星期日.md",
     "templates/日记模板.md",
     "日记",
     "templates/工作日报模板.md",
     "templates/工作周报模板.md",
-    "知识笔记/开发相关/中间件/redis/redis基本命令.md",
     "templates",
     "attachments/attachments.md",
     "temp/temp.md",
