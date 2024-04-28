@@ -3,5 +3,6 @@
   "newFileFolderPath": "temp",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "autoPairMarkdown": false
 }
