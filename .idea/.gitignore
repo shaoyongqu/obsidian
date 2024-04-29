@@ -6,3 +6,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/misc.xml
+/modules.xml
+/obsidian.iml
+/vcs.xml
+/workspace.xml
