@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "file": "日记/2024-04-28 星期日.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "file": "日记/2024-04-28 星期日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+                "file": "日记/2024-04-28 星期日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识笔记/开发相关/中间件/redis/redis基本命令.md"
+                "file": "日记/2024-04-28 星期日.md"
               }
             }
           }
@@ -144,14 +144,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "031cd149133ab243",
   "lastOpenFiles": [
-    "日记/2024-04-28 星期日.md",
     "知识笔记/开发相关/中间件/redis/redis基本命令.md",
+    "create a link.md",
+    "Welcome.md",
+    "日记/2024-04-28 星期日.md",
     "templates/日记模板.md",
     "日记",
     "templates/工作日报模板.md",
@@ -163,9 +164,7 @@
     "未命名.md",
     "temp",
     "未命名 1.md",
-    "Welcome.md",
     "未命名 1",
-    "create a link.md",
     "知识笔记/开发相关/中间件/prometheus",
     "知识笔记/开发相关/中间件/postgresql",
     "知识笔记/开发相关/中间件/rabbitmq",
